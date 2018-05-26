@@ -1,0 +1,1 @@
+# Bron-Kerbosch-Algorithm
